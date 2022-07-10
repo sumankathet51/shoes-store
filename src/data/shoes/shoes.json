@@ -1,0 +1,181 @@
+[
+    {
+        "id": 1,
+        "name": "Fila Women's Disruptor II Sneaker",
+        "description": "This lightweight, retro-inspired sneaker from Fila is perfect for every day and then some. Made with a durable nubuck upper with a smooth, soft finish, this shoe features a removable cushioned insole and an extra-thick rubber sole for excellent shock absorption. A padded tongue and collar and soft lining keep feet feeling fresh and comfortable throughout the day.",
+        "price": 100,
+        "discount": 20,
+        "sizes": [
+            35, 36, 37, 38, 39, 40, 41, 42, 42, 43, 44, 45
+        ],
+        "brand_name": "Nike",
+        "category": "Women",
+        "colors" : [
+            {
+                "id" : 111,
+                "name": "White",
+                "color": "#fff"
+            },
+            {
+                "id" : 222,
+                "name": "Black",
+                "color": "#000"
+            }
+        ],
+        "image": [
+            {
+                "id": 11,
+                "url": "http://localhost:3000/images/sneaker1.png",
+                "alt": "Nike Image"
+            },
+            {
+                "id": 12,
+                "url": "http://localhost:3000/images/sneaker2.png",
+                "alt": "Nike Image"
+            },
+            {
+                "id": 13,
+                "url": "http://localhost:3000/images/sneaker3.png",
+                "alt": "Nike Image"
+            },
+            {
+                "id": 14,
+                "url": "http://localhost:3000/images/sneaker4.png",
+                "alt": "Nike Image"
+            },
+            {
+                "id": 15,
+                "url": "http://localhost:3000/images/sneaker5.png",
+                "alt": "Nike Image"
+            },
+            {
+                "id": 16,
+                "url": "http://localhost:3000/images/sneaker6.png",
+                "alt": "Nike Image"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Second Test Shoe",
+        "description": "Second Shoe Description",
+        "price": 100,
+        "discount": 10,
+        "sizes": [
+            35, 36, 37, 38, 39, 40, 41, 42, 42, 43, 44, 45
+        ],
+        "brand_name": "Nike",
+        "category": "Men",
+        "colors" : [
+            {
+                "id" : 111,
+                "name": "White",
+                "color": "#fff"
+            },
+            {
+                "id" : 222,
+                "name": "Black",
+                "color": "#000"
+            }
+        ],
+        "image": [
+            {
+                "id": 11,
+                "url": "http://localhost:3000/images/nike1.png",
+                "alt": "Nike Image"
+            },
+            {
+                "id": 12,
+                "url": "http://localhost:3000/images/nike2.png",
+                "alt": "Nike Image"
+            },
+            {
+                "id": 13,
+                "url": "http://localhost:3000/images/nike1.png",
+                "alt": "Nike Image"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Second Test Shoe",
+        "description": "Third Shoe Description",
+        "price": 100,
+        "discount": 5,
+        "sizes": [
+            35, 36, 37, 38, 39, 40, 41, 42, 42, 43, 44, 45
+        ],
+        "brand_name": "Nike",
+        "category": "Men",
+        "colors" : [
+            {
+                "id" : 111,
+                "name": "White",
+                "color": "#fff"
+            },
+            {
+                "id" : 222,
+                "name": "Black",
+                "color": "#000"
+            }
+        ],
+        "image": [
+            {
+                "id": 11,
+                "url": "http://localhost:3000/images/nike2.png",
+                "alt": "Nike Image"
+            },
+            {
+                "id": 12,
+                "url": "http://localhost:3000/images/nike2.png",
+                "alt": "Nike Image"
+            },
+            {
+                "id": 13,
+                "url": "http://localhost:3000/images/nike1.png",
+                "alt": "Nike Image"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Second Test Shoe",
+        "description": "Third Shoe Description",
+        "price": 100,
+        "discount": 5,
+        "sizes": [
+            35, 36, 37, 38, 39, 40, 41, 42, 42, 43, 44, 45
+        ],
+        "brand_name": "Nike",
+        "category": "Men",
+        "colors" : [
+            {
+                "id" : 111,
+                "name": "White",
+                "color": "#fff"
+            },
+            {
+                "id" : 222,
+                "name": "Black",
+                "color": "#000"
+            }
+        ],
+        "image": [
+            {
+                "id": 11,
+                "url": "http://localhost:3000/images/nike1.png",
+                "alt": "Nike Image"
+            },
+            {
+                "id": 12,
+                "url": "http://localhost:3000/images/nike2.png",
+                "alt": "Nike Image"
+            },
+            {
+                "id": 13,
+                "url": "http://localhost:3000/images/nike1.png",
+                "alt": "Nike Image"
+            }
+        ]
+    }
+]
